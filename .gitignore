@@ -12,8 +12,10 @@ public/*
 
 #src
 src/*
+!src/tmp
 !src/App.js
 !src/index.js
+!src/index.css
 
 #
 
