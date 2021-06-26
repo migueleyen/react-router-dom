@@ -2,8 +2,20 @@
 
 # dependencies
 /node_modules
+package-lock.json
 /.pnp
 .pnp.js
+
+#public
+public/*
+!public/index.html
+
+#src
+src/*
+!src/App.js
+!src/index.js
+
+#
 
 # testing
 /coverage
